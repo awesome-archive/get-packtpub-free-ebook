@@ -1,6 +1,6 @@
 # get-packtpub-free-ebook
 get your packtpub free ebook easily
-
+![screenshot](https://github.com/a4m/get-packtpub-free-ebook/raw/master/screenshot-for-script.png)
 
 ## why do I write this script
 
