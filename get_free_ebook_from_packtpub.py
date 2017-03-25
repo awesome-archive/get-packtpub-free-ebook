@@ -4,8 +4,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-EMAIL = 'ENTER YOUR EMAIL HERE'
-PASSWORD = 'ENTER YOUR PASSWORD HERE'
+EMAIL = 'zcc87982@psoxs.com'
+PASSWORD = 'qwedsa'
 
 BaseURL = 'https://www.packtpub.com'
 headers = {'User-Agent':'my_simple_python_code'}
